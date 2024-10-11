@@ -35,7 +35,7 @@ For version constraints, I’m using the caret (^) requirement, which means upda
 As I continue using this setup and learn more about any potential pitfalls, I might reconsider version constraints for future versions.
 
 ## How to Use It
-Prerequisites: You need to have both Cookiecutter and Poetry installed.
+Prerequisites: You need to have both Cookiecutter and Poetry installed, assuming that your Python version is at least 3.12.
 Once you have that, you can create a new project with this command:
 
 ```bash
