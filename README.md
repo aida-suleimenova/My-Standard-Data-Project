@@ -19,7 +19,7 @@ I created a Cookiecutter template with what I consider an optimal folder structu
 
 When you create an environment, it's important to think about what you want to include, and be mindful of the memory usage.
 
-For this version, I aimed to keep it light for general data analysis purposes, considering the memory trade-offs. I might expand this solution later with a version focused on data science and machine learning tools, but for now, the main packages I care about are:
+For this version, I aimed to keep it light for general data analysis purposes, considering the memory trade-offs. I might expand this solution later with a version focused on data science and machine learning tools, but for now, the main contents I care about are:
 
 - python = "^3.12"
 - ipykernel = "^6.29.5"
